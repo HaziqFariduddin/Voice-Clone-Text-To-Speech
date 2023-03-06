@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Voice-Clone-Text-To-Speech/static/css/main.dd2ef46b.css",
-    "main.js": "/Voice-Clone-Text-To-Speech/static/js/main.90d8bbba.js",
+    "main.js": "/Voice-Clone-Text-To-Speech/static/js/main.61e08ba8.js",
     "static/js/787.0c3f432a.chunk.js": "/Voice-Clone-Text-To-Speech/static/js/787.0c3f432a.chunk.js",
     "index.html": "/Voice-Clone-Text-To-Speech/index.html",
     "main.dd2ef46b.css.map": "/Voice-Clone-Text-To-Speech/static/css/main.dd2ef46b.css.map",
-    "main.90d8bbba.js.map": "/Voice-Clone-Text-To-Speech/static/js/main.90d8bbba.js.map",
+    "main.61e08ba8.js.map": "/Voice-Clone-Text-To-Speech/static/js/main.61e08ba8.js.map",
     "787.0c3f432a.chunk.js.map": "/Voice-Clone-Text-To-Speech/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd2ef46b.css",
-    "static/js/main.90d8bbba.js"
+    "static/js/main.61e08ba8.js"
   ]
 }
