@@ -7,6 +7,7 @@ function App() {
   const [text, setText] = useState("");
   const [loading, setLoading] = useState(false);
 
+  const APIkey = process.env.REACT_APP_API_KEY;
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -24,7 +25,7 @@ function App() {
         {
           headers: {
             "Content-Type": "application/json",
-            "xi-api-key": process.env.REACT_APP_API_KEY,
+            "xi-api-key": APIkey,
             Accept: "audio/mpeg",
           },
           responseType: "blob",
